@@ -1,2 +1,1 @@
-# webpack-react
-webpack react project template.
+webpack react project template
